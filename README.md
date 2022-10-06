@@ -1,3 +1,2 @@
 # Launch-X
-Repositorio del curso FullStack de Innovacción 
-Abogabot
+Repositorio del curso FullStack de Innovacción
