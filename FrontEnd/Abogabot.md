@@ -33,7 +33,7 @@ Se analiza y se define el cliente al cual va dirigida la aplicación web. Se uti
 ![Buyer persona](./Imagenes/buyer_persona.png)
 
 ## 2. Público objetivo
-Se define quienes son los usarios finales que van a utilizar la aplicación web y se analiza para determinar el funcionamiento y el diseño de la aplicación.
+Se define quienes son los usarios finales que van a utilizar la aplicación web y se analiza para determinar el funcionamiento y el diseño de la aplicación. Se utiliza la plantilla de referencia en: (https://miro.com/app/board/uXjVPQi3IJ4=/)
 
 ![Publico objetivo](./Imagenes/publico_objetivo.png)
 
