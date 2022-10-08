@@ -23,4 +23,4 @@ Requerimientos necesarios y básicos para que funcione la aplicación web.
 - Ver usuarios agregados a la aplicación
 
 Diagrama de flujo de la aplicación web: 
-![Diagrama de flujo](./Imagenes/Diagrama de flujo Abogabot.drawio.png)
+![Diagrama de flujo](/Imagenes/Diagrama de flujo Abogabot.drawio.png)
