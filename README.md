@@ -9,5 +9,17 @@ pueda checarlos y atenderlos, cuando se atiendan, el administrador debe poder su
 Requerimientos necesarios y básicos para que funcione la aplicación web.
 
 **UX/UI del cliente**
+- Formulario para llenar una solicitud
+- Registrar usuario
+- Checkout
+- Ver resumen de las solicitudes
+- Ver seguimiento de cada solicitud
+- Responsive
 
+**UX/UI del administrador**
+- Iniciar sesión
+- Ver resumen de todas las solicitudes
+- Crear detalles de seguimiento de cada solicitud
+- Ver usuarios agregados a la aplicación
 
+Diagrama de flujo de la aplicación web: 
