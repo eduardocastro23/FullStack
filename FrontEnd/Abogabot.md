@@ -43,6 +43,7 @@ Se muestra el primer diseño de lo que podría ser la estructura antes de pasar 
 ![Wireframe](./Imagenes/inicio_ux.png)
 ![Wireframe](./Imagenes/inicio_de_sesion_ux.png)
 ![Wireframe](./Imagenes/checkout_ux.png)
-![Wireframe](./Imagenes/solicitudes_ux.png)
 ![Wireframe](./Imagenes/solicitudes_user_ux.png)
+![Wireframe](./Imagenes/solicitudes_ux.png)
+
 
