@@ -8,6 +8,6 @@ pueda checarlos y atenderlos, cuando se atiendan, el administrador debe poder su
 ## 1. Toma de requerimientos
 Requerimientos necesarios y básicos para que funcione la aplicación web.
 
-*UX/UI del cliente
+**UX/UI del cliente
 
 
