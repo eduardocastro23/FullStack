@@ -37,3 +37,12 @@ Se define quienes son los usarios finales que van a utilizar la aplicación web 
 
 ![Publico objetivo](./Imagenes/publico_objetivo.png)
 
+## 3. Wireframe
+Se muestra el primer diseño de lo que podría ser la estructura antes de pasar al UI, se nota el acomodo de los componentes. Se utiliza la herramienta de adobe xd en: https://helpx.adobe.com/mx/xd/get-started.html
+
+![Wireframe](./Imagenes/inicio_ux.png)
+![Wireframe](./Imagenes/inicio_de_sesion_ux.png)
+![Wireframe](./Imagenes/checkout_ux.png)
+![Wireframe](./Imagenes/solicitudes_ux.png)
+![Wireframe](./Imagenes/solicitudes_user_ux.png)
+
