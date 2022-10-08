@@ -26,7 +26,9 @@ Requerimientos necesarios y básicos para que funcione la aplicación web.
 
 ![Diagrama de flujo](./Imagenes/diagrama_de_flujo.png)
 
+
 ## 1.1 Buyer Persona
 Se analiza y se define el cliente al cual va dirigida la aplicación web. Se utiliza el formato entregado en el curso.
 
 ![Buyer persona](./Imagenes/buyer_persona.png)
+
