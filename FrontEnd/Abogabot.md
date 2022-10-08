@@ -46,4 +46,14 @@ Se muestra el primer diseño de lo que podría ser la estructura antes de pasar 
 ![Wireframe](./Imagenes/solicitudes_user_ux.png)
 ![Wireframe](./Imagenes/solicitudes_ux.png)
 
+## 4. Diseño UI
+Se muestra el diseño final de como quedaría nuestra aplicación web desde el navegador justo antes de empezar a programar. Se utiliza la plataforma de adobe xd en: https://helpx.adobe.com/mx/xd/get-started.html
+
+![Diseño UI](./Imagenes/Inicio_ui.png)
+![Diseño UI](./Imagenes/Inicio_de_sesion_ui.png)
+![Diseño UI](./Imagenes/Checkout_ui.png)
+![Diseño UI](./Imagenes/Solicitudes_user_ui.png)
+![Diseño UI](./Imagenes/Solicitudes_users_ui.png)
+![Diseño UI](./Imagenes/Solicitudes_admin_ui.png)
+![Diseño UI](./Imagenes/Solicitudes_admins_ui.png)
 
