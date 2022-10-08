@@ -22,5 +22,6 @@ Requerimientos necesarios y básicos para que funcione la aplicación web.
 - Crear detalles de seguimiento de cada solicitud
 - Ver usuarios agregados a la aplicación
 
-Diagrama de flujo de la aplicación web: 
+Diagrama de flujo de la aplicación web:
+
 ![Diagrama de flujo](./Imagenes/diagrama_de_flujo.png)
