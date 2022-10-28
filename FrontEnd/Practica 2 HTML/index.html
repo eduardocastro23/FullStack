@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taqueria El Bicho SIU</title>
+</head>
+<body>
+    <header>
+        <img src="imagenes/Taqueria.png"/>
+    </header>
+    <h1>Menú</h1>
+    <h2>Tacos</h2>
+    <p>Incluye refresco y verdura</p>
+    <ul>
+        <li>Asada------------------ $30</li>
+        <li>Chorizo------------------ $30</li>
+        <li>Combinado------------------ $30</li>
+        <li>Pastor------------------ $30</li>
+        <li>Oriental------------------ $30</li>
+    </ul>
+    <h2>Especiales</h2>
+    <p>Incluye refresco y postre</p>
+    <dl>
+        <dt><b>El comandante-------------- $50</b></dt><br>
+        <dd>Tortilla de harina con Pastor, queso y Chorizo</dd><br>
+        <dt><b>El bicho-------------- $50</b></dt><br>
+        <dd>Tortilla de maiz con Oriental, chorizo y queso</dd><br>
+        <dt><b>El rico, guapo y buen jugador-------------- $50</b></dt><br>
+        <dd>Tortilla de harina con Oriental, Chorizo y Pastor</dd><br>
+    </dl>
+    <hr>
+
+    <h2>Ubicación</h2>
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Ubicación</th>
+            <th>Horarios</th>
+        </tr>
+        <tr>
+            <td>Angelopolis</td>
+            <td><a href="https://goo.gl/maps/Kd6SWEAv6gseoB6a7" target="blank">Boulevard Del Niño Poblano 2510 local FF17, Concepción la Cruz, 72450 Puebla, Pue.</a></td>
+            <td>L - D 5pm - 3am</td>
+        </tr>
+        <tr>
+            <td>Reforma</td>
+            <td><a href="https://goo.gl/maps/YK7sGRMW92fbYiCP8" target="blank">C. Aljojuca 2, La Paz, 72160 Puebla, Pue.</a></td>
+            <td>L - D 5pm - 3am</td>
+        </tr>
+        <tr>
+            <td>Margarita</td>
+            <td><a href="https://goo.gl/maps/RnfMEQtwjedwkKTS7" target="blank">Av. San Baltazar 3230-Local C2, Centro Comercial Bodega Aurrera, Col. Unidad Guadalupe, 72560 Puebla, Pue.</a></td>
+            <td>L - D 5pm - 3am</td>
+        </tr>
+    </table>
+    <hr>
+
+    <h2>Pedidos</h2>
+
+    <h3>Haz tu pedido aquí</h3>
+
+    <form action="">
+
+        <p>Elige tu taquería</p>
+        <select>
+            <option value="Angelopolis">Angelopolis</option>
+            <option value="Reforma">Reforma</option>
+            <option value="Margarita">Margarita</option>
+        </select>
+
+        <p>¿Qué vas a pedir?</p>
+        <input type="checkbox" id="Asada" name="Asada" value="Asada">
+        <label for="Asada">Tacos de Asada</label>
+        <input type="number" id="AsadaNumber" name="AsadaNumber" placeholder="¿Cuantos quieres?">
+        <br>
+        <input type="checkbox" id="Chorizo" name="Chorizo" value="Chorizo">
+        <label for="Chorizo">Tacos con Chorizo</label>
+        <input type="number" id="ChorizoNumber" name="ChorizoNumber" placeholder="¿Cuantos quieres?">
+        <br>
+        <input type="checkbox" id="Combinado" name="Combinado" value="Combinado">
+        <label for="Combinado">Combinado</label>
+        <input type="number" id="CombinadoNumber" name="CombinadoNumber" placeholder="¿Cuantos quieres?">
+        <br>
+        <hr>
+        <h2>Datos de envío</h2>
+        <label for="Nombre">Nombre</label><br>
+        <input type="text" id="Nombre" name="Nombre" placeholder="Tu nombre">
+        <br>
+        <label for="Celular">Celular</label><br>
+        <input type="number" id="Celular" name="Celular" placeholder="Tu celular">
+        <br>
+        <label for="Dirección">Dirección</label><br>
+        <input type="text" id="Dirección" name="Dirección" placeholder="Tu dirección">
+        <br>
+        <button type="submit">Enviar pedido</button>
+        <br><br>
+
+        </form>
+
+        <p></p>
+</body>
+</html>
