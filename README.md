@@ -8,4 +8,4 @@ y el diseño UX/UI y tambien se aprenderá a utilizar los lenguajes HTML, CSS, J
 - [Requerimientos y Diseño UX/UI](https://github.com/eduardocastro23/Launch-X/blob/main/FrontEnd/Abogabot.md)
 
 ### 2. Estructura HTML
-- [Estructura de página con HTML
+- [Estructura de página con HTML](https://github.com/eduardocastro23/Launch-X/blob/main/FrontEnd/Practica%202%20HTML/index.html)
