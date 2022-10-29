@@ -11,4 +11,4 @@ y el diseño UX/UI y tambien se aprenderá a utilizar los lenguajes HTML, CSS, J
 - [Estructura de página con HTML](https://github.com/eduardocastro23/Launch-X/blob/main/FrontEnd/Practica%202%20HTML/index.html)
 
 ### 3. Estilos con CSS
-- [Estilizar la página con CSS](https://github.com/eduardocastro23/Launch-X/tree/main/FrontEnd/Practica%203%20Vacunaci%C3%B3n)
+- [Estilizar la página con CSS](https://eduardocastro23.github.io/Launch-X/FrontEnd/Practica%203%20Vacunaci%C3%B3n/index.html)
