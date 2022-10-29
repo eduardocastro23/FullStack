@@ -1,0 +1,168 @@
+.navbar-expand-sm {
+    height: 30%;
+}
+
+.navbar-collapse{
+    position: absolute;
+    left: 60%;
+    transform: translatex(-50%);
+    color: rgba(97, 97, 160, 0.732);
+}
+
+.navbar-nav{ 
+     color: rgba(97, 97, 160, 0.732);
+}
+
+
+.Titulo-pag{
+    color: rgb(19, 19, 119);
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 20%;
+    padding-bottom: 5%;
+}
+
+.titulo-2{
+    color: rgb(19, 19, 119);
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 8%;
+}
+
+.mb-0{
+    color: rgb(58, 58, 214);
+    font-size: 25px;
+}
+
+.letra-prin{
+    color: rgba(97, 97, 160, 0.732);
+    font-weight: light;
+    font-size: 20px;
+    padding-right: 5%;
+}
+.letra-prin-1{
+    color: rgba(97, 97, 160, 0.732);
+    font-weight: light;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.parrafo_cuadro{
+    color: rgba(97, 97, 160, 0.732);
+    font-weight: light;
+    font-size: 15px;
+    text-align: left;
+    padding-top: 5%;
+}
+
+.box img{
+    height: 100%;
+    width: auto;
+
+}
+
+.letra_bold_p{
+    color: rgb(19, 19, 119);
+    font-size: 15px;
+    padding-top: 10%;
+}
+
+.letra_bold_m{
+    color: rgb(19, 19, 119);
+    font-size: 20px;
+}
+
+.letra_bold_g{
+    color: rgb(19, 19, 119);
+    font-size: 20px;
+}
+
+.seccion1 {
+    background-image: url(images/fondo_.png);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position-x: right;
+    background-position-y: top;
+}
+
+.espaciado {
+    height: 100px;
+}
+.espaciado1 {
+    height: 60px;
+}
+.espaciado2 {
+    height: 30px;
+}
+.espaciado3 {
+    height: 150px;
+}
+.espaciado4{
+    height: 50px;
+}
+
+.agendar{
+    background-color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow:
+       inset 
+             0 0  0 2px rgb(255,255,255),
+             0.2em 0.2em 1em rgba(0,0,0,0.3);
+}
+.boton_inicio{
+    padding-top: 17%;
+    font-size: 20px;
+}
+.img_sec2{
+    text-align: center;
+}
+
+.cuadro{
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    padding-block: 10%;
+    padding-inline: 10%;
+    border-radius: 12px;
+    box-shadow:
+       inset 
+             0 0  0 0.5px rgb(255,255,255),
+             0.2em 0.2em 1em rgba(0,0,0,0.3);
+}
+
+.sec-cont{
+    padding-inline: 5%;
+}
+
+.pie_de_pag{
+    background-color: rgb(247, 247, 247);
+}
+
+table, th, td {
+    padding-inline: 50px;
+    padding-block: 5px;
+    text-align: left;
+  }
+.letra_p{
+    color: rgba(97, 97, 160, 0.732);
+    text-align: left;
+}
+
+select{
+    border: 0px;
+    color: rgb(19, 19, 119);
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+input{
+    border: 0px;
+    color: rgb(19, 19, 119);
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    display: block; 
+}
