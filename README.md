@@ -12,3 +12,6 @@ y el diseño UX/UI y tambien se aprenderá a utilizar los lenguajes HTML, CSS, J
 
 ### 3. Estilos con CSS
 - [Estilizar la página con CSS](https://eduardocastro23.github.io/Launch-X/FrontEnd/Practica%203%20Vacunaci%C3%B3n/index.html)
+
+### 4. Funcionalidad con JavaScript
+- [Crear funcionalidad en un Pokedex]()
