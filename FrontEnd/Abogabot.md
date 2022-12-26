@@ -1,5 +1,5 @@
 # Abogabot
-Repositorio de desarrrollo FullStack
+Repositorio de desarrrollo FrontEnd (Planeación y Diseño)
 
 ## Descripción de la práctica
 Crear una pagina web que capture las solicitudes de usuarios, estos usuario podrán agregar todos sus datos e incluso los de pago, para que el administrador
